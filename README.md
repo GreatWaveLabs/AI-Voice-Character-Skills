@@ -22,9 +22,8 @@ you know.
 
 ### 📺 Futurama
 - Bender
-- Leela
-- Dr. Zoidberg
-- *(more coming)*
+- Leela *(coming soon)*
+- Dr. Zoidberg *(coming soon)*
 
 ## How to use
 
@@ -42,7 +41,8 @@ AI-Voice-Character-Skills/
 │   ├── README.md
 │   ├── archer-character-voice.md
 │   └── pam-character-voice.md
-└── Futurama/          (coming soon)
+└── Futurama/
+    ├── README.md
     └── bender-character-voice.md
 ```
 
