@@ -49,10 +49,23 @@ AI-Voice-Character-Skills/
 Each show folder has its own `README.md` listing the characters available in it,
 along with the activation/deactivation phrases for each skill.
 
+## Contributing
+
+New characters and shows welcome! To add one:
+
+1. Fork the repo
+2. Add your character file under the matching show folder (create a new folder
+   for a new show)
+3. Follow the existing file format for voice/tone/catchphrases
+4. Open a pull request
+
 ## Disclaimer
 
-These skills are unofficial, fan-made works created for personal enjoyment and
-educational purposes. All characters, show names, and related likenesses are the
-property of their respective copyright and trademark holders. This project claims
-no ownership over any of the underlying characters or shows, and is not sponsored,
-endorsed by, or affiliated with them in any way.
+All characters, names, and associated likenesses are the property of their
+respective copyright holders. This project contains original prompt engineering
+work only — no copyrighted scripts, dialogue, or other protected content is
+reproduced here. Provided for personal, non-commercial, fan and educational use.
+
+## License
+
+MIT — see [LICENSE](LICENSE)
